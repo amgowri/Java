@@ -1,6 +1,6 @@
 # Class
 
-- Class is a blueprint for creating objects
+##### Class is a blueprint for creating objects
 
 ```java
 
@@ -10,10 +10,10 @@ public class EmployeeClass {
 
 ```
 
-- Class doesn't occupy space in memory.
-- Class is a logical entity.
+##### Class doesn't occupy space in memory.
+##### Class is a logical entity.
 
-- Class is a collection of variables or attributes and methods or behaviors
+##### Class is a collection of variables or attributes and methods or behaviors
 
 ```java
 
