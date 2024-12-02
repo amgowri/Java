@@ -1,8 +1,8 @@
 # Object
 
-## Object is an instance of class.
+## 1. Object is an instance of class.
 
-## Object is created by using class.
+## 2. Object is created by using class.
 
 ```java
 
@@ -10,9 +10,9 @@ EmployeeClass employee = new EmployeeClass();
 
 ```
 
-## Object occupy space in memory.
+## 3. Object occupy space in memory.
 
-## Object is physical entity.
+## 4. Object is physical entity.
 
 ```java
 
@@ -21,7 +21,7 @@ EmployeeClass employee = new EmployeeClass();
 
 ```
 
-## Using single class we can have multiple objects.
+## 5. Using single class we can have multiple objects.
 
 ```java
 	EmployeeClass employee1 = new EmployeeClass();
