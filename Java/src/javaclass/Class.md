@@ -11,7 +11,7 @@ public class EmployeeClass {
 ```
 
 ## 2. Class doesn't occupy space in memory
-## 3. Class is a logical entity
+## 3. Class is a logical entity / non physical
 ## 4. Class is a collection of variables and methods
 ```java
 
@@ -39,8 +39,6 @@ public class EmployeeClass {
 
 
 ```
-
-
 
 
 
