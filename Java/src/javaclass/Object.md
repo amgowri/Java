@@ -2,7 +2,7 @@
 
 ## 1. Object is an instance of class
 
-## 2. Object is created by using class
+## 2. Object is created by using new keyword followed by classname ( EmployeeClass )
 
 ```java
 
@@ -10,9 +10,9 @@ EmployeeClass employee = new EmployeeClass();
 
 ```
 
-## 3. Object occupy space in memory
+## 3. Object occupy space in memory 
 
-## 4. Object is physical entity
+## 4. Object is physical entity ( employee1, employee2 )
 
 ```java
 
