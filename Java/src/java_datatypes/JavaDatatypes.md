@@ -24,34 +24,36 @@ datatype variablename = value;
 | char | 16 | 0 to 65,535 (Unicode) | '\u0000' | Single Unicode character |
 
 ```java
+
 public class JavaPrimitiveDatatypes {
 
 	public static void main(String[] args) {
 
-		byte myHouseNumber = 108;
-		short myAge = 29;
+		byte employeeID = 101;
+		short employeeAge = 29;
 
-		int myCGPA = 72;
-		long myPhoneNumber = 987653210L;
+		int employeeSalary = 90000;
+		long employeePhoneNumber = 987653210L;
 
-		float myMonthlySalary = 80000.8f;
-		double myAnnualSalary = 960000.880d;
+		float employeeRating = 4.5F;
+		double employeePFAmount = 6000.880;
 
-		boolean martialStatus = false;
-		char myGender = 'f';
+		boolean employeeMaritalStatus = false;
+		char employeeGrade = 'A';
 
-		System.out.println(" My Home Number is : " + myHouseNumber);
-		System.out.println(" My Age is : " + myAge);
-		System.out.println(" My CGPA : " + myCGPA);
-		System.out.println(" My Phone Number is : " + myPhoneNumber);
-		System.out.println(" My Monthly Salary is : " + myMonthlySalary);
-		System.out.println(" My Annual Salary is : " + myAnnualSalary);
-		System.out.println(" My Martial Status is : " + martialStatus);
-		System.out.println(" My Gender is : " + myGender);
+		System.out.println(" Employee ID: " + employeeID);
+		System.out.println(" Employee Age: " + employeeAge);
+		System.out.println(" Employee Salary: " + employeeSalary);
+		System.out.println(" Employee Phone Number: " + employeePhoneNumber);
+		System.out.println(" Employee PF Amount: " + employeePFAmount);
+		System.out.println(" Employee Rating: " + employeeRating);
+		System.out.println(" Employee Martial Status: " + employeeMaritalStatus);
+		System.out.println(" Employee Grade: " + employeeGrade);
 
 	}
 
 }
+
 ```
 
 
