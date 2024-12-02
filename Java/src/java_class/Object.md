@@ -1,5 +1,13 @@
 # Object
 
+## Object Syntax
+
+```java
+
+ClassName objectname = new ClassName();
+
+```
+
 ## 1. Object is an instance of class
 
 ## 2. Object is created by using new keyword followed by classname ( EmployeeClass )
@@ -11,6 +19,26 @@ EmployeeClass employee = new EmployeeClass();
 ```
 
 ## 3. Object occupy space in memory 
+
+```java
+
+public class JavaObject {
+
+	public static void main(String[] args) {
+
+		JavaObject object = new JavaObject();
+		System.out.println(object);
+	}
+
+}
+
+```
+
+```
+
+java_class.JavaObject@2d554825
+
+```
 
 ## 4. Object is physical entity ( employee1, employee2 )
 
