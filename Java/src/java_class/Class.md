@@ -2,9 +2,19 @@
 
 ## 1. Class is a blueprint for creating objects
 
+## Class Syntax
 ```java
 
-public class EmployeeClass {
+public class class_name {
+
+}
+
+
+```
+## Class Example
+```java
+
+public class JavaClass {
 
 }
 
