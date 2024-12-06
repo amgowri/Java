@@ -1,13 +1,42 @@
 package java_class;
 
+/**
+ * 
+ * Class is a blueprint for creating objects
+ * 
+ * Class is a collection of variables and methods
+ * 
+ * Class is a logical / virtual entity
+ * 
+ * Class doesn't occupy space in memory
+ * 
+ * 
+ * Class Syntax
+ * 
+ * public class classname {
+ * 
+ * }
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
 public class EmployeeClass {
 
-	// Declare and initialize variables
+	// Declare variables
 	String employeeName;
 	int employeeID;
 	double employeeSalary;
 
-	// method
 	void displayEmployeeInformation() {
 
 		// Print the value of the variable
